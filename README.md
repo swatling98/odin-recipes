@@ -1,2 +1,2 @@
 # odin-recipes
-Creating first project through Odin
+Creating first project through Odin!
